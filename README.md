@@ -1,6 +1,7 @@
 # Final Examination - CCS 2700 Laboratory
 
-## Screenshot 3: ![image](https://github.com/mjyngcong/2700-finals/assets/129155223/56764b8d-de48-4f39-a04c-aa67eabbdf5f)
+## Screenshot 3: ![image](https://github.com/mjyngcong/2700-finals/assets/129155223/db418663-11cb-4260-9b6f-fb5f9373292f)
+
 
 
 ## Screenshot 5.1: ![image](https://github.com/mjyngcong/2700-finals/assets/129155223/dff35ed8-aa23-4d1d-acb0-a491b7a6e0d4)
